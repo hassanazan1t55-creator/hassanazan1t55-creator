@@ -1,28 +1,17 @@
-### About Me
-My name is Hassan Azan and I am from Pakistan. I am learning low-level programming and computer networks from zero level. My main focus is to build a very strong foundation so I can become a professional Cybersecurity Expert and Penetration Tester in future.
+# 👨‍💻 Hassan Azan | Low-Level & Security Explorer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Expert;Low-Level+C+Developer;Network+Security+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-### What I Do Daily
-* C Programming: Practicing basic logic, loops, arrays, and learning secure coding methods like fixing memory bugs and handling input buffer properly.
-* Computer Networks: Studying fundamental network concepts, layers, IP schemes, and how protocols work from security perspective.
+### 🚀 About Me
+I am Hassan Azan from Pakistan. I am building a strong foundation in low-level systems programming and network architecture with a laser focus on **Cybersecurity & Penetration Testing**.
 
----
-### Tech Stack & Tools
+```text
+[+] Goal       : Elite Security Researcher / Systems Developer
+[+] Focus      : Memory Safety, Protocol Analysis & Socket Programming
+[+] Mindset    : Daily Discipline & Continuous Skill Acquisition
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44D2A?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Technologies and Tools
-* Languages: C Language
-* Networking Tools: Basic Network Commands, Protocols analysis
-* Development: Git, GitHub, VS Code
-* Operating Systems: Windows, Linux (Learning Phase)
-
----
-
-### Main Progress Trackers
-* my-c-learning: This is where I upload my daily C language practice files and basic tools.
-* my-networking-journey: This repository has all my personal notes about network architecture and protocols.
+🛠️ Tech Stack & Skills📊 Live GitHub Stats🎯 Active Repositories & Journey TrackerRepositoryFocus AreaDescription🔹 my-c-learningLow-Level CDaily C programming, memory bugs, pointers & data structures.🔹 my-networking-journeyNetwork SecurityIP schemes, OSI model, Wireshark packet analysis & protocols.
