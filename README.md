@@ -1,10 +1,10 @@
 # Hassan Azan
 
-I am a computer science student from Pakistan, passionate about low-level systems programming, memory safety, and network security. I am currently focused on building a strong core foundation in C and Linux.
+I am a computer science student from Pakistan. I am currently learning the fundamentals of low-level programming, Linux, and computer networking from scratch.
 
 ---
 
-### 🛠️ What I'm Learning & Using
+### 🛠️ Technologies I Am Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -14,23 +14,23 @@ I am a computer science student from Pakistan, passionate about low-level system
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-* **Programming:** Practice with C (Pointers, Memory Allocation, Basic Data Structures)
-* **Networking:** Studying TCP/IP, OSI model layers, and packet analysis
-* **Tools:** Linux CLI navigation, Git version control, VS Code
+* **C Programming:** Learning syntax, pointers, memory allocation, and basic data structures.
+* **Computer Networks:** Studying the TCP/IP model, OSI layers, IP addressing, and basic network protocols.
+* **Tools:** Getting comfortable with Linux command line, Git, and VS Code.
 
 ---
 
-### 📂 My Learning Repositories
+### 📂 Learning Logs & Repositories
 
 | Repository | Focus |
 | :--- | :--- |
-| [**my-c-learning**](https://github.com/hassanazan1t55-creator/my-c-learning) | Daily C programming exercises, pointer logic, and memory practice. |
-| [**my-networking-journey**](https://github.com/hassanazan1t55-creator/my-networking-journey) | My study notes on network protocols and Wireshark analysis. |
+| [**my-c-learning**](https://github.com/hassanazan1t55-creator/my-c-learning) | Daily C programming exercises and basic code practice. |
+| [**my-networking-journey**](https://github.com/hassanazan1t55-creator/my-networking-journey) | Personal notes on networking concepts and fundamentals. |
 
 ---
 
-### 🎯 Current Goals
+### 🎯 Current Learning Goals
 
-* Mastering socket programming in C to understand how network tools work.
-* Building small CLI-based network utilities from scratch.
-* Consistently documenting my learning journey every day.
+* Build a solid understanding of memory management in C.
+* Learn how data moves across networks (OSI & TCP/IP layers).
+* Practice writing clean code and committing daily to GitHub.
