@@ -4,6 +4,11 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C_Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -12,24 +17,10 @@
 
 ---
 
-### ⚡ Technical Overview
-Specializing in core computer science fundamentals, memory management, and network communication protocols. Actively engineering low-level C utilities with a primary focus on security and high-performance execution.
+### ⚡ Professional Summary
+Specializing in low-level systems architecture, memory safety, and network security protocols. Focused on writing efficient C code and analyzing core computer science fundamentals from the ground up.
 
-* **Systems Programming:** C (Pointer Arithmetic, Manual Memory Allocation, Custom Data Structures)
-* **Network Engineering:** TCP/IP Suite, Socket Programming, OSI Layer Architecture, Packet Analysis
-* **Tools & Environment:** Linux CLI, Git/GitHub, VS Code
-
----
-
-### 🛠️ Core Repositories
-
-| Repository | Domain | Description |
-| :--- | :--- | :--- |
-| 🔹 [**my-c-learning**](https://github.com/hassanazan1t55-creator/my-c-learning) | Systems | Daily execution of data structures, pointers, and memory handling in C. |
-| 🔹 [**my-networking-journey**](https://github.com/hassanazan1t55-creator/my-networking-journey) | Security | In-depth breakdown of network protocols, Wireshark traces, and security concepts. |
-
----
-
-<p align="center">
-  <i>"Building robust software from the metal up."</i>
-</p>
+```text
+[+] Core Focus : Systems Programming, Network Protocols & Socket APIs
+[+] Stack      : C (Pointers, Memory Allocation), Linux CLI, Wireshark, Git
+[+] Philosophy : Building robust, secure software directly on top of the OS
