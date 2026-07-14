@@ -1,10 +1,10 @@
-# Hassan Azan
+# Hello, I'm Hassan Azan 
 
-I am a computer science student from Pakistan. I am currently learning the fundamentals of low-level programming, Linux, and computer networking from scratch.
+I am a Computer Science student from Pakistan, passionate about low-level systems programming, Linux, and network security. I am currently learning the core fundamentals from scratch and documenting my journey daily.
 
 ---
 
-### 🛠️ Technologies I Am Learning
+### Technologies I Am Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -15,12 +15,12 @@ I am a computer science student from Pakistan. I am currently learning the funda
 </p>
 
 * **C Programming:** Learning syntax, pointers, memory allocation, and basic data structures.
-* **Computer Networks:** Studying the TCP/IP model, OSI layers, IP addressing, and basic network protocols.
+* **Computer Networks:** Studying the TCP/IP model, OSI layers, IP addressing, and basic protocols.
 * **Tools:** Getting comfortable with Linux command line, Git, and VS Code.
 
 ---
 
-### 📂 Learning Logs & Repositories
+### Learning Logs & Repositories
 
 | Repository | Focus |
 | :--- | :--- |
@@ -29,7 +29,7 @@ I am a computer science student from Pakistan. I am currently learning the funda
 
 ---
 
-### 🎯 Current Learning Goals
+### Current Learning Goals
 
 * Build a solid understanding of memory management in C.
 * Learn how data moves across networks (OSI & TCP/IP layers).
