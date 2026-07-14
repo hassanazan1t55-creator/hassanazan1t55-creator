@@ -1,10 +1,10 @@
 # Hassan Azan
 
-Hey! I'm a low-level programming enthusiast from Pakistan. I spend most of my time diving into core computer science, memory management, and network protocols. My main goal is to build a solid foundation in cybersecurity and systems engineering.
+I am a software developer from Pakistan focused on low-level systems programming, memory safety, and network security protocols. My core work revolves around understanding how computers and networks operate under the hood using C and Linux.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Core Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -14,29 +14,22 @@ Hey! I'm a low-level programming enthusiast from Pakistan. I spend most of my ti
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-- **Primary Language:** C (pointers, dynamic memory, data structures)
-- **Networking & Security:** TCP/IP, OSI model, Wireshark, socket basics
-- **Environment:** Linux CLI, Git, VS Code
+* **Systems Programming:** C (Pointer Arithmetic, Dynamic Memory Allocation, Custom Data Structures)
+* **Networking & Security:** TCP/IP Protocols, OSI Model, Wireshark, Socket Programming Fundamentals
+* **Environment:** Linux CLI, Git/GitHub, VS Code
 
 ---
 
-### 📂 What I'm Working On
+### Public Repositories
 
-I keep my daily learning open-source. Here are my main logs:
-
-| Repository | Description |
+| Repository | Focus Area |
 | :--- | :--- |
-| 🔹 [**my-c-learning**](https://github.com/hassanazan1t55-creator/my-c-learning) | Daily C code snippets, memory allocation practice, and algorithms. |
-| 🔹 [**my-networking-journey**](https://github.com/hassanazan1t55-creator/my-networking-journey) | Network protocol notes, packet captures, and security fundamentals. |
+| [**my-c-learning**](https://github.com/hassanazan1t55-creator/my-c-learning) | Daily C programming exercises, pointers, and memory management practice. |
+| [**my-networking-journey**](https://github.com/hassanazan1t55-creator/my-networking-journey) | Network protocol analysis, Wireshark traces, and security concepts. |
 
 ---
 
-### 🎯 Current Goals
-- Mastering C socket programming to build custom network CLI tools.
-- Deepening my understanding of operating systems and memory safety.
+### Current Focus
 
----
-
-<p align="left">
-  💬 Feel free to check out my repos or reach out if you're into low-level systems!
-</p>
+* Developing C-based network utilities and socket-level tools.
+* Deepening knowledge in operating system internals and vulnerability research.
