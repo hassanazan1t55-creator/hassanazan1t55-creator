@@ -1,4 +1,4 @@
-# Hello, I'm Hassan Azan 
+# Hello, I'm Azan Hassan
 
 I am a Computer Science student from Pakistan, passionate about low-level systems programming, Linux, and network security. I am currently learning the core fundamentals from scratch and documenting my journey daily.
 
