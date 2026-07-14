@@ -8,8 +8,6 @@ My name is Hassan Azan and I am from Pakistan. I am learning low-level programmi
 * Computer Networks: Studying fundamental network concepts, layers, IP schemes, and how protocols work from security perspective.
 
 ---
-
-### Technologies and Tools
 ### Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -17,6 +15,7 @@ My name is Hassan Azan and I am from Pakistan. I am learning low-level programmi
 ![Git](https://img.shields.io/badge/GIT-E44D2A?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Technologies and Tools
 * Languages: C Language
 * Networking Tools: Basic Network Commands, Protocols analysis
 * Development: Git, GitHub, VS Code
