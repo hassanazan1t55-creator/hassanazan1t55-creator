@@ -10,6 +10,13 @@ My name is Hassan Azan and I am from Pakistan. I am learning low-level programmi
 ---
 
 ### Technologies and Tools
+### Tech Stack & Tools
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44D2A?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 * Languages: C Language
 * Networking Tools: Basic Network Commands, Protocols analysis
 * Development: Git, GitHub, VS Code
