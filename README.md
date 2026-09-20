@@ -1,120 +1,188 @@
 <div align="center">
 
-# AZAN HASSAN
+<a href="https://github.com/hassanazan1t55-creator">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=AZAN%20HASSAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Systems%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn&color=0:050816,50:0b1730,100:111827" width="100%" alt="Azan Hassan header" />
+</a>
 
-### Computer Science • Systems • Networking • Cybersecurity
+<a href="https://github.com/hassanazan1t55-creator">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+systems+with+strong+fundamentals.;Learning+networking+from+the+packet+up.;Exploring+Linux+%26+cybersecurity.;Turning+knowledge+into+practical+projects." alt="Typing introduction" />
+</a>
 
-<p>
-  <a href="https://github.com/hassanazan1t55-creator">
-    <img src="https://img.shields.io/badge/GitHub-hassanazan1t55--creator-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hassanazan1t55-creator&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hassanazan1t55-creator?style=flat-square&label=FOLLOWERS" alt="Followers" />
-</p>
+<br/>
+
+<a href="https://github.com/hassanazan1t55-creator?tab=followers"><img src="https://img.shields.io/github/followers/hassanazan1t55-creator?style=for-the-badge&logo=github&label=FOLLOWERS&color=161b22" alt="GitHub followers" /></a>
+<a href="https://github.com/hassanazan1t55-creator?tab=repositories"><img src="https://img.shields.io/github/stars/hassanazan1t55-creator?style=for-the-badge&logo=github&label=STARS&color=161b22" alt="GitHub stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=hassanazan1t55-creator&style=for-the-badge&label=PROFILE+VIEWS&color=161b22" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## 01 / PROFILE
 
-I am building a strong foundation in **computer science, systems, networking, Linux, and cybersecurity** through structured study and hands-on practice.
+I am building a practical foundation in **computer science, systems, networking, Linux, and cybersecurity** through structured study and hands-on work.
 
-My approach is simple: understand the fundamentals, apply them in practical work, document the results, and improve continuously.
+I focus on understanding how things work beneath the surface, documenting what I learn, and turning concepts into working projects.
 
-**Current direction:** C programming · Linux · Computer Networking · Cybersecurity
+> **Build the fundamentals. Understand the system. Test the result. Improve it.**
 
 ---
 
-## Areas of Focus
+## 02 / CORE DOMAINS
 
-| Area | Focus |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Systems & Programming
+
+- C programming
+- Memory and pointers
+- Data structures & algorithms
+- Low-level programming
+- Python automation
+- Git & version control
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & Security
+
+- TCP/IP networking
+- IPv4 & subnetting
+- DNS, DHCP & routing
+- Linux administration
+- Network analysis
+- Defensive cybersecurity
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / SELECTED WORK
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### C Learning
+
+Structured C practice covering programming fundamentals, memory, pointers, structures, and data structures.
+
+**Repository**  
+[my-c-learning →](https://github.com/hassanazan1t55-creator/my-c-learning)
+
+</td>
+<td width="33%" valign="top">
+
+### Networking
+
+A documented learning path covering networking fundamentals, protocols, addressing, troubleshooting, and security concepts.
+
+**Repository**  
+[my-networking-journey →](https://github.com/hassanazan1t55-creator/my-networking-journey)
+
+</td>
+<td width="33%" valign="top">
+
+### Security Labs
+
+Practical Linux and cybersecurity work focused on administration, hardening, and defensive security concepts.
+
+**Repository**  
+[cybersecurity-labs →](https://github.com/hassanazan1t55-creator/cybersecurity-labs)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / TECHNOLOGY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=7" alt="Technology stack" />
+
+</div>
+
+---
+
+## 05 / GITHUB ACTIVITY
+
+<div align="center">
+
+<a href="https://github.com/hassanazan1t55-creator">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hassanazan1t55-creator&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/hassanazan1t55-creator">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanazan1t55-creator&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hassanazan1t55-creator&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 06 / LEARNING ROADMAP
+
+```text
+FOUNDATIONS
+C ── Linux ── Git ── Networking
+          │
+          ▼
+SYSTEMS
+Memory ── Data Structures ── OS Concepts
+          │
+          ▼
+NETWORKING
+TCP/IP ── Routing ── DNS ── Analysis
+          │
+          ▼
+SECURITY
+Hardening ── Secure Coding ── Defensive Labs
+          │
+          ▼
+ENGINEERING
+Projects ── Automation ── Testing ── Documentation
+```
+
+---
+
+## 07 / ENGINEERING PRINCIPLES
+
+| Principle | Practice |
 |---|---|
-| **C Programming** | Memory, pointers, data structures, algorithms, low-level programming |
-| **Networking** | TCP/IP, IPv4, subnetting, DNS, DHCP, routing, packet analysis |
-| **Linux** | Command line, permissions, users/groups, storage, administration |
-| **Cybersecurity** | Security fundamentals, hardening, secure coding, defensive concepts |
-| **Development** | Git, GitHub, documentation, testing, automation |
+| **Fundamentals first** | Understand the underlying mechanism before relying on abstractions. |
+| **Hands-on learning** | Turn concepts into commands, code, experiments, and projects. |
+| **Evidence over assumptions** | Test behavior and verify results. |
+| **Security by default** | Consider security as part of engineering, not an afterthought. |
+| **Document the process** | Keep useful notes so knowledge becomes reusable. |
+| **Continuous improvement** | Refactor, test, review, and iterate. |
 
 ---
 
-## Selected Work
+## 08 / CURRENT DIRECTION
 
-### [my-c-learning](https://github.com/hassanazan1t55-creator/my-c-learning)
-Structured C programming practice covering fundamentals, memory, pointers, structures, and data structures.
-
-### [my-networking-journey](https://github.com/hassanazan1t55-creator/my-networking-journey)
-A documented networking learning path covering core networking concepts and security fundamentals.
-
-### [cybersecurity-labs](https://github.com/hassanazan1t55-creator/cybersecurity-labs)
-Practical Linux and cybersecurity study focused on administration, security concepts, and hardening.
-
----
-
-## Technical Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=7" alt="C, Python, Linux, Bash, Git, GitHub and VS Code" />
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hassanazan1t55-creator&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanazan1t55-creator&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
-
-</div>
-
----
-
-## Learning Path
-
-**Foundations**  
-C · Linux · Git · Networking fundamentals
-
-**Systems & Networking**  
-Data structures · System concepts · Network analysis · Linux administration
-
-**Security**  
-Network security · Secure coding · Defensive security · Practical labs
-
-**Engineering**  
-Projects · Automation · Testing · Documentation · Open source
-
----
-
-## Principles
-
-- Build understanding before abstraction.
-- Practice concepts instead of only reading about them.
-- Document what is learned.
-- Test assumptions.
-- Treat security as part of engineering.
-- Improve through iteration.
-
----
-
-## Current Objectives
-
-- Deepen C and systems knowledge
-- Strengthen networking fundamentals
-- Become more proficient with Linux
-- Build practical cybersecurity projects
-- Improve software quality, testing, and documentation
-- Turn learning into increasingly complete projects
+**Deepening:** C · Linux · networking · systems concepts  
+**Building:** practical cybersecurity and software projects  
+**Improving:** testing · documentation · automation · code quality
 
 ---
 
 <div align="center">
 
-### Learn. Build. Analyze. Improve.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Learning cycle" />
 
-<sub>Focused on fundamentals, practical work, and continuous improvement.</sub>
+<br/><br/>
+
+<a href="https://github.com/hassanazan1t55-creator">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:0b1730,100:050816" width="100%" alt="Footer" />
+</a>
 
 </div>
