@@ -1,105 +1,196 @@
+<div align="center">
+
 # 👋 Hi, I'm Azan Hassan
 
-### Computer Science Student • C Programmer • Networking & Cybersecurity Learner
+### 💻 Computer Science Student • C Programmer • Networking & Cybersecurity Learner
 
-I’m building my technical foundation from the ground up through **daily practice, hands-on labs, and documented learning**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Documenting;C+Programming+%7C+Linux+%7C+Networking;Cybersecurity+%7C+Systems+%7C+Problem+Solving;One+day+at+a+time+%F0%9F%9A%80" alt="Typing animation" />
 
-My current focus is understanding how computers work at a low level, how networks communicate, and how systems can be designed and secured responsibly.
-
----
-
-## 🧭 What I'm Learning
-
-| Area | Current Focus |
-|---|---|
-| 💻 **C Programming** | Pointers, memory management, data structures, low-level logic |
-| 🌐 **Networking** | TCP/IP, OSI, addressing, routing, protocols, packet analysis |
-| 🐧 **Linux** | CLI, permissions, users/groups, storage, administration |
-| 🔐 **Cybersecurity** | Security fundamentals, defensive thinking, web and network security concepts |
-| 🛠️ **Tools** | Git, GitHub, VS Code, Linux command line, networking tools |
-
----
-
-## 📚 My Learning Repositories
-
-### 💻 [My C Programming Journey](https://github.com/hassanazan1t55-creator/my-c-learning)
-
-Daily C programming practice progressing from fundamentals toward data structures and low-level programming.
-
-**Topics include:**  
-C syntax • control flow • functions • arrays • strings • pointers • structures • file handling • dynamic memory • bitwise operations • linked lists
-
----
-
-### 🌐 [My Networking Journey](https://github.com/hassanazan1t55-creator/my-networking-journey)
-
-A day-by-day networking knowledge base covering foundational concepts through security-focused networking topics.
-
-**Topics include:**  
-IPv4 • subnetting • NAT/PAT • DNS • DHCP • ICMP • Wi-Fi • VLANs • routing • TCP • cryptography • web security concepts
-
----
-
-### 🔐 [Cybersecurity Labs](https://github.com/hassanazan1t55-creator/cybersecurity-labs)
-
-Hands-on Linux and security learning, with practical notes and exercises focused on understanding systems and defensive security fundamentals.
-
-**Current areas:**  
-Linux fundamentals • permissions • file operations • user administration • storage management • security hardening
-
----
-
-## 🗺️ Learning Philosophy
-
-> **Learn → Practice → Document → Review → Improve**
-
-I don't want to only memorize commands or definitions. I want to understand **why things work**, test my understanding through practical exercises, and keep a public record of my progress.
-
----
-
-## 🚀 Current Goals
-
-- Strengthen C and low-level programming fundamentals
-- Build deeper networking knowledge
-- Become comfortable with Linux administration
-- Develop practical cybersecurity and defensive-security skills
-- Build useful projects instead of only completing tutorials
-- Improve code quality, testing, documentation, and Git/GitHub workflow
-
----
-
-## 📈 Progress
-
-I’m documenting the journey one day at a time.
-
-**Consistency > perfection.**
-
-Every repository here represents something I have studied, practiced, or improved.
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hassanazan1t55-creator&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hassanazan1t55-creator?style=for-the-badge&label=Followers" alt="Followers" />
 </p>
 
----
-
-## 📌 Featured Work
-
-- 🧠 **C Programming** — building strong programming and memory-management fundamentals
-- 🌐 **Networking** — creating a structured networking knowledge base
-- 🐧 **Linux & Security Labs** — practicing system administration and security fundamentals
+</div>
 
 ---
 
-### ⭐ Thanks for visiting
+## 🧠 About Me
 
-I'm still learning, building, and improving every day.
+I'm building my technical foundation from the ground up through **daily practice, hands-on labs, and documented learning**.
 
-**The goal is simple: understand the fundamentals deeply, build real things, and keep getting better.**
+My goal is not just to memorize commands or definitions. I want to understand **how systems work**, practice what I learn, build useful projects, and continuously improve.
+
+> **Learn → Practice → Build → Document → Review → Improve**
+
+---
+
+## 🛠️ Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 C Programming
+- Pointers & memory
+- Dynamic allocation
+- Structures & unions
+- Bitwise operations
+- Linked lists
+- Low-level problem solving
+
+</td>
+<td width="50%">
+
+### 🌐 Networking
+- TCP/IP & OSI
+- IPv4 & subnetting
+- DNS & DHCP
+- NAT/PAT
+- Routing
+- Packet analysis
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🐧 Linux
+- CLI fundamentals
+- Files & permissions
+- Users & groups
+- Storage
+- System administration
+- Security hardening
+
+</td>
+<td>
+
+### 🔐 Cybersecurity
+- Security fundamentals
+- Network security
+- Web security concepts
+- Defensive thinking
+- Practical labs
+- Responsible security testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 My Learning Projects
+
+<div align="center">
+
+| Repository | What I'm Building |
+|---|---|
+| 💻 **[my-c-learning](https://github.com/hassanazan1t55-creator/my-c-learning)** | Daily C programming journey from fundamentals toward data structures |
+| 🌐 **[my-networking-journey](https://github.com/hassanazan1t55-creator/my-networking-journey)** | Day-by-day networking knowledge base and security concepts |
+| 🔐 **[cybersecurity-labs](https://github.com/hassanazan1t55-creator/cybersecurity-labs)** | Linux administration, practical labs and security hardening |
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode,bash" alt="Tech stack" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hassanazan1t55-creator&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanazan1t55-creator&layout=compact&hide_border=true" height="165" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hassanazan1t55-creator&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+**Foundation**
+→ C fundamentals  
+→ Linux CLI  
+→ Git & GitHub  
+→ Networking fundamentals  
+
+**Intermediate**
+→ Data structures  
+→ System programming  
+→ Network analysis  
+→ Linux administration  
+
+**Security**
+→ Network security  
+→ Web security  
+→ Secure coding  
+→ Defensive security  
+→ Practical labs  
+
+**Build**
+→ Real projects  
+→ Automation  
+→ Security tools  
+→ Better documentation  
+→ Open-source contributions  
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Strengthen C and low-level programming
+- [ ] Build deeper networking knowledge
+- [ ] Become comfortable with Linux administration
+- [ ] Improve secure coding practices
+- [ ] Build practical cybersecurity projects
+- [ ] Learn through hands-on labs
+- [ ] Improve testing and documentation
+- [ ] Contribute to open source
+
+---
+
+## 📈 The Journey
+
+<div align="center">
+
+### Consistency > Perfection
+
+Every repository here represents something I have **studied, practiced, documented, or improved**.
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
+
+</div>
+
+---
+
+## 💡 What I Care About
+
+**Understanding fundamentals deeply.**  
+**Building instead of only watching tutorials.**  
+**Documenting what I learn.**  
+**Improving a little every day.**
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" alt="Animated footer" />
+
+</div>
